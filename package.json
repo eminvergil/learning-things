@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/emocanmimocan/learning-things/issues"
   },
-  "homepage": "https://github.com/emocanmimocan/learning-things#readme"
+  "homepage": "https://github.com/emocanmimocan/learning-things#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }
